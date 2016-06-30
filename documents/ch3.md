@@ -12,10 +12,7 @@
 
 ## 正確には
 
-<pre>
 To be exact
-</pre>
-
 
 ## ...を確認して下さい
 
@@ -40,4 +37,11 @@ Steps to reproduce
 
 ## エラーが再現できませんよ
 I can’t reproduce the error
+
+## 詳細はこちら、詳しくはこちら、より詳しく知るには
+
+find out more
+問い合わせボタンなどに利用します
+
+find more
 
