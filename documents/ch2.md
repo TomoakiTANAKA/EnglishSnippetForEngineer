@@ -40,3 +40,9 @@ An exclusive lock
 ## ほぼ同じ
 almost the same
 
+## 工数を見積もる
+
+## WBSを引く
+
+## ビューの機能を担当している
+
