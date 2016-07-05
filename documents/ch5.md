@@ -27,6 +27,8 @@ this is a very difficult problem.
 ## 費用対効果を出す
 
 I’m going to calculate the cost-benefit performance
+I'm going to calculate the cost effectiveness.
+
 
 cost-peformance ではないので注意
 
