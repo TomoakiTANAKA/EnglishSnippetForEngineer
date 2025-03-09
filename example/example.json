@@ -1,0 +1,73 @@
+{
+  "conversationId": "train-announcement-001",
+  "timestamp": "2025-03-10T14:30:00Z",
+  "context": {
+    "situation": "電車内でのアナウンス",
+    "background": "特定の車両（女性専用車など）に乗っていて、降りるよう案内された"
+  },
+  "expressions": [
+    {
+      "id": "expr-001",
+      "japanese": "電車から降りてください（専用車両なので）",
+      "english": "Would you please get off this train, as this is a reserved car.",
+      "formality": "polite",
+      "usage_notes": "丁寧な依頼表現",
+      "tags": ["request", "public-transport", "announcement", "polite-form"]
+    }
+  ],
+  "grammar_points": [
+    {
+      "id": "gram-001",
+      "pattern": "Would you please + 動詞原形",
+      "explanation": "丁寧な依頼表現。相手に何かをお願いする際に使う",
+      "examples": [
+        "Would you please open the window?",
+        "Would you please wait for a moment?"
+      ],
+      "related_patterns": [
+        {
+          "pattern_id": "gram-002",
+          "relationship_type": "similar_meaning"
+        },
+        {
+          "pattern_id": "gram-034",
+          "relationship_type": "contrast"
+        }
+      ],
+      "tags": ["request", "polite", "question-form"]
+    }
+  ],
+  "vocabulary": [
+    {
+      "word_id": "voc-045",
+      "word": "get off",
+      "type": "phrasal verb",
+      "meaning": "降りる",
+      "examples": [
+        "I get off the bus at the next stop.",
+        "She got off the train at Tokyo station."
+      ],
+      "related_words": [
+        {
+          "word_id": "voc-046",
+          "relationship_type": "synonym"
+        },
+        {
+          "word_id": "voc-089",
+          "relationship_type": "antonym"
+        }
+      ],
+      "tags": ["movement", "transport", "phrasal-verb"]
+    }
+  ],
+  "conversation_summary": {
+    "main_topic": "電車内アナウンスの英語表現",
+    "key_learnings": [
+      "丁寧な依頼表現「Would you please」の使い方",
+      "「Would you mind」との違い",
+      "公共交通機関での表現"
+    ],
+    "difficulty_level": 2,
+    "category": "travel"
+  }
+}
